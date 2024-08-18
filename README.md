@@ -1,1 +1,1 @@
-# Automatidata_TLC
+This project is designed to analyze and model data from the New York City Taxi and Limousine Commission (TLC) dataset. The goal is to derive actionable insights, build predictive models, and optimize taxi operations using real-world data. This repository contains code, data, and documentation related to the project.
